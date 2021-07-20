@@ -13,7 +13,7 @@ I'm a passionate Android and Web Developer  and I am interested in developing ne
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<a href="https://docs.python.org/3/tutorial/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
 <a href="https://docs.oracle.com/en/java/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/50/000000/kotlin.png"/> </a>
