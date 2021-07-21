@@ -57,7 +57,7 @@ I'm a passionate Android and Web Developer  and I am interested in developing ne
 ## Connect with me:
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/HarshitVerma1">
     <img src="https://komarev.com/ghpvc/?username=mittalsam98">
 </a>
 <a href="https://github.com/HarshitVerma1?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
