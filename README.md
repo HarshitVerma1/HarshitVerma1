@@ -1,6 +1,7 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshit verma</h1>
 <p align="center">
-    <img src = "https://readme-typing-svg.herokuapp.com?size=21&center=true&width=410&height=52&lines=A+self+taught+programmer;Always+learning+new+things;Android Developer + Web-+developer+;And+A Creative+programmer">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 </p>
 
 <h1 align="center"><a href="#"><img width="300" height="200" src="coding.gif"/></a></h1>
