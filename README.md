@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshit verma</h1>
 <p align="center">
-    <img src = "https://readme-typing-svg.herokuapp.com/?lines=A+self+taught+programmer+always+learning+new+things;Hi!+I+am+Android+developer+and+ Web+Developer;And+graphics+programmer">
+    <img src = "https://readme-typing-svg.herokuapp.com/?lines=A+self+taught+programmer+always+learning+new+things;Hi!+I'm+Harshit+Verma+Android+developer+and+ Web+Developer;And+graphics+programmer">
 
 </p>
 
