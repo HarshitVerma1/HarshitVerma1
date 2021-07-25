@@ -1,6 +1,9 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshit verma</h1>
+<p align="center">
+    <img src = "https://readme-typing-svg.herokuapp.com?size=21&center=true&width=410&height=52&lines=A+self+taught+programmer;Always+learning+new+things;Android Developer + Web-+developer+;And+A Creative+programmer">
+</p>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="coding.gif"/></a></h1>
 
 ## 🙋‍♂️ About Me
 
