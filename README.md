@@ -3,7 +3,7 @@
     <img src = "https://readme-typing-svg.herokuapp.com?size=21&center=true&width=410&height=52&lines=A+self+taught+programmer;Always+learning+new+things;Android Developer + Web-+developer+;And+A Creative+programmer">
 </p>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="coding.gif"/></a></h1>
+<h1 align="center"><a href="#"><img width="300" height="200" src="coding.gif"/></a></h1>
 
 ## 🙋‍♂️ About Me
 
